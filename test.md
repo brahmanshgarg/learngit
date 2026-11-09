@@ -1,1 +1,1 @@
-This is a test file to learn the basics of git.
+This is a test file to learn the basics of Git.
